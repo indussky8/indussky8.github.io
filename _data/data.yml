@@ -225,14 +225,9 @@ publications:
         authors: Xu Yang, Zhenfeng Zhu, Meixiang Xu, <strong>Xingxing Zhang</strong><br>软件学报, 2018 <br>
         conference: <a href="http://www.cqvip.com/qk/96857x/201804/675035240.html">[PDF]</a>
 
-service:
-  title: Service
-  summary: |
-    Reviewer: T-CSVT, T-NNLS, NeuCom, MTA, IJCAI-2019.
 
 honors-and-awards:
     title: Honors and Awards
-
     nameset:
       - name: National Scholarship, BJTU, 2015, 2017, 2018, 2019
       - name: National Scholarship, HNU, 2014
@@ -243,6 +238,11 @@ honors-and-awards:
       - name: 2nd Prize, China Undergraduate Mathematical Contest in Modeling, 2013
       - name: 3rd Prize, National Computer Simulation Competition, 2014
       - name: 3rd Prize, National English Competition for College Students, 2014
+
+service:
+  title: Service
+  summary: |
+    Reviewer: T-CSVT, T-NNLS, NeuCom, MTA, IJCAI-2019.
 
 skills:
     title: Skills &amp; Proficiency
