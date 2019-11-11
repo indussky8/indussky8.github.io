@@ -7,31 +7,28 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Xingxing Zhang张幸幸
+    tagline: A Phd student
+    avatar: xxz.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+#    BJTU-email:   zhangxing AT bjtu.edu.cn
+#    Google-email: xxzhang1993 AT gmail.com
+#    phone: 012 345 6789
+#    website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: indussky8
+    website: Google Scholar
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
@@ -45,20 +42,24 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am currently a PHD student (since 2015) at the Institute of Information Science, Beijing Jiaotong
+       University (BJTU), Bei- jing, China. My advisor is Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm">Yao Zhao</a>. Before that, I received the bachelor’s
+       degree in 2015 in Communication Engineering from Henan Normal University (HNU), Xinxiang, China.
+       I was a Visiting Student with the Department of Computer Science, University of Rochester (UR), USA,
+       from 2018 to 2019, working with Prof. <a href="http://www.cs.rochester.edu/u/jliu">Ji Liu</a>.
 
-      Second paragraph if required.
+research-interests:
+  title: Research Interests
+  summary: |
+    Machine learning, particularly data selection, zero-shot learning, and adversarial learning.
+
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PHD in Computer Science
+      university: Beijing Jiaotong University (BJTU)
+      time: 2015 -
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +70,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Communication Engineering
+      university: Henan Normal University (HNU)
+      time: 2011 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -156,23 +157,74 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: <strong>ATZSL:&nbspDefensive Zero-Shot Recognition in the Presence of Adversaries</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
+        conference: <a href="https://arxiv.org/abs/1910.10994">[arxiv]</a>
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: <strong>Convolutional Prototype Learning for Zero-Shot Recognition</strong><br>
+        authors: Zhizhe Liu, <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Shuai Zheng, Yao Zhao, Jian Cheng<br>
+        conference: <a href="https://arxiv.org/abs/1910.09728">[arxiv]</a>
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: <strong>Hierarchical Prototype Learning for Zero-Shot Recognition</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
+        conference: IEEE Transactions on Multimedia (<strong>TMM</strong>), 2019 <br>
+          <a href="https://arxiv.org/abs/1910.11671">[PDF]</a>
+
+      - title: <strong>ProLFA:&nbspRepresentative Prototype Selection for Local Feature Aggregation</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao<br>
+        conference: Neurocomputing (<strong>NeuCom</strong>), 2019 <br>
+          <a href="https://arxiv.org/abs/1910.11010">[PDF]</a>
+
+      - title: <strong>Seeing All From a Few:&nbspL1-Norm-Induced Discriminative Prototype Selection</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
+        conference: IEEE Transactions on Multimedia (<strong>TMM</strong>), 2019 <br>
+          <a href="https://arxiv.org/abs/1910.11671">[PDF]</a>
+
+      - title: <strong>Sparsity induced prototype learning via Lp,1-norm grouping</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao<br>
+        conference: Journal of Visual Communication and Image Representation (<strong>JVCI</strong>), 2018 <br>
+          <a href="https://www.sciencedirect.com/science/article/pii/S1047320318302499">[PDF]</a>
+
+      - title: <strong>Self-Supervised Deep Low-Rank Assignment Model for Prototype Selection</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao, Deqiang Kong<br>
+        conference: International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2018 <br>
+            <a href="https://www.ijcai.org/proceedings/2018/0436.pdf">[PDF]</a>
+
+      - title: <strong>Learning a General Assignment Model for Video Analytics</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao, Dongxia Chang<br>
+        conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2017 <br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
+
+      - title: <strong>Canonical Correlation Analysis With L2,1-Norm for Multiview Data Representation</strong><br>
+        authors: Meixiang Xu, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Yao Zhao, Xuelong Li<br>
+        conference: IEEE Transactions on Cybernetics (<strong>TCYB</strong>), 2019 <br>
+            <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
+
+      - title: <strong>Diffusion Induced Graph Representation Learning</strong><br>
+        authors: Fuzhen Li, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Jian Cheng, Yao Zhao<br>
+        conference: Neurocomputing (<strong>NeuCom</strong>), 2019 <br>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0925231219308392">[PDF]</a>
+
+      - title: <strong>Understand Dynamic Regret with Switching Cost for Online Decision Making</strong><br>
+        authors: Yawei Zhao, Qian Zhao, <strong>Xingxing Zhang</strong>, En Zhu, Xinwang Liu, Jianping Yin<br>
+        conference: ACM Transactions on Intelligent Systems and Technology (<strong>TIST</strong>), 2019 <br>
+            </p>
+
+      - title: <strong>A Novel Generalized Arnold Transform-based Zero-Watermarking Scheme</strong><br>
+        authors:  Lin Sun, Jiucheng Xu, <strong>Xingxing Zhang</strong>, Wan Dong, Yun Tian<br>
+        conference: Applied Mathematics &amp; Information Sciences (<strong>Appl Math Inf Sci</strong>), 2015 <br>
+            <a href="https://pdfs.semanticscholar.org/e307/bf401ce106720a42f8d3624c6d4b4b6cd5cd.pdf">[PDF]</a>
+
+      - title: <strong>An Image Watermarking Scheme Using Arnold Transform and Fuzzy Smooth Support Vector Machine</strong><br>
+        authors: Lin Sun, Jiucheng Xu, <strong>Xingxing Zhang</strong>, Yun Tian<br>
+        conference: Mathematical Problems in Engineering (<strong>MPE</strong>), 2015 <br>
+            <a href="https://www.hindawi.com/journals/mpe/2015/931672/">[PDF]</a>
+
+      - title: <strong>多视角数据失补全</strong><br>
+        authors: Xu Yang, Zhenfeng Zhu, Meixiang Xu, <strong>Xingxing Zhang</strong><br>软件学报, 2018 <br>
+        conference: <a href="http://www.cqvip.com/qk/96857x/201804/675035240.html">[PDF]</a>
+
 
 skills:
     title: Skills &amp; Proficiency
