@@ -83,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/_data/data.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="48" column="145" selection-start-line="48" selection-start-column="145" selection-end-line="48" selection-end-column="145" />
+              <caret line="48" column="146" selection-start-line="48" selection-start-column="146" selection-end-line="48" selection-end-column="146" />
             </state>
           </provider>
         </entry>
@@ -194,12 +194,12 @@
       <option name="presentableId" value="Default" />
       <updated>1573445154469</updated>
       <workItem from="1573445160865" duration="19092000" />
-      <workItem from="1573609388163" duration="5486000" />
+      <workItem from="1573609388163" duration="6090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24578000" />
+    <option name="totallyTimeSpent" value="25182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -401,7 +401,7 @@
     <entry file="file://$PROJECT_DIR$/_data/data.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="48" column="145" selection-start-line="48" selection-start-column="145" selection-end-line="48" selection-end-column="145" />
+          <caret line="48" column="146" selection-start-line="48" selection-start-column="146" selection-end-line="48" selection-end-column="146" />
         </state>
       </provider>
     </entry>
