@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="23" column="103" lean-forward="true" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="103" />
+              <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="68" />
               <folding>
                 <element signature="e#804#810#0" expanded="true" />
               </folding>
@@ -82,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/data.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="46" column="156" selection-start-line="46" selection-start-column="156" selection-end-line="46" selection-end-column="156" />
+            <state relative-caret-position="374">
+              <caret line="50" column="105" selection-start-line="50" selection-start-column="105" selection-end-line="50" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -194,12 +194,12 @@
       <option name="presentableId" value="Default" />
       <updated>1573445154469</updated>
       <workItem from="1573445160865" duration="19092000" />
-      <workItem from="1573609388163" duration="4608000" />
+      <workItem from="1573609388163" duration="4792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23700000" />
+    <option name="totallyTimeSpent" value="23884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -364,15 +364,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="103" lean-forward="true" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="103" />
+        <state relative-caret-position="242">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
-            <element signature="e#804#810#0" expanded="true" />
+            <marker date="1573621064076" expanded="true" signature="65:169" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/projects.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -385,23 +388,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="506">
+          <caret line="23" column="68" lean-forward="true" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="68" />
           <folding>
-            <marker date="1573621064076" expanded="true" signature="65:169" ph="..." />
+            <element signature="e#804#810#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/data.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="46" column="156" selection-start-line="46" selection-start-column="156" selection-end-line="46" selection-end-column="156" />
+        <state relative-caret-position="374">
+          <caret line="50" column="105" selection-start-line="50" selection-start-column="105" selection-end-line="50" selection-end-column="105" />
         </state>
       </provider>
     </entry>
