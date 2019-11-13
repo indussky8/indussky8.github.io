@@ -132,19 +132,19 @@ projects:
 
     assignments:
       - title: Research on Subset Selection based on Sparsity
-        link: "#hook"
+        time:  July 2017 - December 2018
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: Motion Segmentation based on Sparse Subspace Clustering
-        link: "#"
+        time:  March 2016 - March 2017
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Research on the Theory and Method of Prototype Selection in Machine Learning
-        link: "#"
+        time:  October 2019 - December 2023 (Expected)
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Pattern Recognition of Mixed Data and Research on Sensitive Content Mining
-        link: "#"
+        time:  January 2016 - December 2021 (Expected)
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 
