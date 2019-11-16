@@ -14,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/使用文档">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,11 +63,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1128" />
+    <option name="y" value="33" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -81,6 +81,11 @@
             <path>
               <item name="tfboys-lzz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="tfboys-lzz.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tfboys-lzz.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tfboys-lzz.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,19 +126,18 @@
       <workItem from="1573445160865" duration="19092000" />
       <workItem from="1573609388163" duration="6690000" />
       <workItem from="1573794780116" duration="133000" />
-      <workItem from="1573875521372" duration="668000" />
+      <workItem from="1573875521372" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26583000" />
+    <option name="totallyTimeSpent" value="26911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1128" y="33" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2889126" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.5929978" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -331,8 +335,8 @@
     <entry file="file://$PROJECT_DIR$/使用文档">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
