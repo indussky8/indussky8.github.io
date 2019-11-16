@@ -66,8 +66,11 @@ education:
       university: Henan Normal University (HNU)
       time: 2011 - 2015
 
-News:
-  
+news:
+  title: News
+  newsset:
+    - content: 2019/11 -- One paper has been accepted in <strong>TMM<\strong>
+
 
 
 experiences:
@@ -116,7 +119,6 @@ experiences:
 
 projects:
     title: Projects
-
     assignments:
       - title: Research on Subset Selection based on Sparsity
         time:  July 2017 - December 2018
