@@ -2,14 +2,13 @@
 <div class="sidebar-wrapper">
 
   <div class="profile-img">
-
     {% if sidebar.name %}
     <img src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
   </div>
   <div class="profile-name">
     {% if sidebar.name %}
-    <h3 class="name">{{ sidebar.name }}</h3>
+    <h5 class="name">{{ sidebar.name }}</h5>
 <!--    <font size="3" color="white">{{ sidebar.name }}</font>-->
     {% endif %}
 
