@@ -24,10 +24,8 @@ paper informations to the beginning and should keep the same structure.
 #### Honors and Awards 
 You can use ctrl+F to search **Honors and Awards**, and then add the newest information to the beginning
 
-#### SERVICE Section
-You can use ctrl+F to search **Service**, and then change the content of summary
-
-#### SKILLS Section
-You can use ctrl+F to search **Skills**, and then add the newest information. Note: You need to keep the same structure
-
+### Add new section
+if you want to add new section, first, you should add the section content to _data/data.yml file, and then
+you should build a html file to layout the above content, Finally, you should add the html file name to
+index.html file
 
