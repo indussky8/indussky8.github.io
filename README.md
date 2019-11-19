@@ -7,8 +7,8 @@
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 ## How to use
-There's an important thing we need to remember all contents(e.g ABOUT ME...) are in _/data/data.yml file. 
-Next, we introduce how to updata our homepage.
+Change all the details from one place: _data/data.yml. That is to say, if we want to update our homepage,
+we just need to add new information to this file.
 
 #### ABOUT ME Section
 In data.yml file, you can use ctrl+F to search **career-profile** or **About me**, and then you can change the content of summary.
