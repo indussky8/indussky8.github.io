@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Xingxing Zhang张幸幸 <a href="Xingxing_Zhang_s_CV.pdf"><font color="#FF3030">[CV]</font></a>
+    name: Xingxing Zhang 张幸幸 <a href="Xingxing_Zhang_s_CV.pdf"><font color="#FF3030">[CV]</font></a>
     tagline: A Phd student
     avatar: xxz.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -32,13 +32,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Sleeping
         link:
 
-      - item: Snowboarding
+      - item: Walking
         link:
 
-      - item: Cooking
+      - item: Eating
         link:
 
 career-profile:
@@ -59,17 +59,19 @@ research-interests:
 education:
     - degree: PHD in Computer Science
       university: Beijing Jiaotong University (BJTU)
-      time: 2015 -
+      time: 2015/09 - 2020/07(Expected)
 
 
     - degree: BSc in Communication Engineering
       university: Henan Normal University (HNU)
-      time: 2011 - 2015
+      time: 2011/09 - 2015/07
 
 news:
   title: News
   newsset:
     - content: 2019/11 -- One paper has been accepted by <strong>TMM</strong>
+    - content: 2019/11 -- One paper has been accepted by <strong>NeuCom</strong>
+    - content: 2019/10 -- I won the <strong>National Scholarship</strong> again
 
 
 
@@ -231,10 +233,10 @@ skills:
 
     toolset:
       - name: Python & Matlab
-        level: 90%
+        level: 95%
 
       - name: Pytorch & Tensorflow
-        level: 98%
+        level: 90%
 
       - name: OpenCV & Scikit-learn
         level: 93%
