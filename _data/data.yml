@@ -202,11 +202,6 @@ publications:
         conference: Neurocomputing (<strong>NeuCom</strong>), 2019 <br>
             <a href="https://www.sciencedirect.com/science/article/pii/S0925231219308392">[PDF]</a>
 
-      - title: <strong>Understand Dynamic Regret with Switching Cost for Online Decision Making</strong><br>
-        authors: Yawei Zhao, Qian Zhao, <strong>Xingxing Zhang</strong>, En Zhu, Xinwang Liu, Jianping Yin<br>
-        conference: ACM Transactions on Intelligent Systems and Technology (<strong>TIST</strong>), 2019 <br>
-            </p>
-
       - title: <strong>A Novel Generalized Arnold Transform-based Zero-Watermarking Scheme</strong><br>
         authors:  Lin Sun, Jiucheng Xu, <strong>Xingxing Zhang</strong>, Wan Dong, Yun Tian<br>
         conference: Applied Mathematics &amp; Information Sciences (<strong>Appl Math Inf Sci</strong>), 2015 <br>
@@ -238,7 +233,7 @@ honors-and-awards:
 service:
   title: Service
   summary: |
-    Reviewer: T-CSVT, T-NNLS, NeuCom, MTA, IJCAI-2019.
+    Reviewer: T-CSVT, T-NNLS, NeuCom, MTA, IJCAI-2019, IJCAI-2020.
 
 skills:
     title: Skills
