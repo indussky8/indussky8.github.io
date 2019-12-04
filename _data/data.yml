@@ -71,6 +71,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2019/12 -- Our paper has been accepted by <strong>ACM TIST</strong>
     - content: 2019/11 -- One paper has been accepted by <strong>TMM</strong>
     - content: 2019/11 -- One paper has been accepted by <strong>NeuCom</strong>
     - content: 2019/10 -- I won the <strong>National Scholarship</strong> again
@@ -181,11 +182,16 @@ publications:
         authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao, Dongxia Chang<br>
         conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2017 <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
-
+            
       - title: <strong>Canonical Correlation Analysis With L2,1-Norm for Multiview Data Representation</strong><br>
         authors: Meixiang Xu, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Yao Zhao, Xuelong Li<br>
         conference: IEEE Transactions on Cybernetics (<strong>TCYB</strong>), 2019 <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
+            
+      - title: <strong>Understand Dynamic Regret with Switching Cost for Online Decision Making</strong><br>
+        authors: Yawei Zhao, Qian Zhao, <strong>Xingxing Zhang</strong>, En Zhu, Xinwang Liu, Jianping Yin<br>
+        conference: ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2019 <br>
+            <a href="https://arxiv.org/abs/1911.12595">[PDF]</a>
 
       - title: <strong>Diffusion Induced Graph Representation Learning</strong><br>
         authors: Fuzhen Li, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Jian Cheng, Yao Zhao<br>
