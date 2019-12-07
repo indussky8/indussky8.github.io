@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Xingxing Zhang 张幸幸 <a href="Xingxing_Zhang_s_CV.pdf"><font color="#FF3030">[CV]</font></a>
+    name: Xingxing Zhang 张幸幸 <a href="Xingxing_Zhang_s_CV.pdf"><font color="#FF3030">I am looking for a Postdoc position.</font>[CV]</font></a>
     tagline: A Phd student
     avatar: xxz.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
