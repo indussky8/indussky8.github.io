@@ -159,6 +159,10 @@ publications:
       - title: <strong>Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning</strong><br>
         authors: Shuai Zheng, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Zhizhe Liu, Jian Cheng, Yao Zhao<br>
         conference: <a href="https://arxiv.org/abs/1912.01899">[arxiv]</a>
+        
+      - title: <strong>To See in the Dark: N2DGAN for Background Modeling in Nighttime Scene</strong><br>
+        authors: Zhenfeng Zhu, Yingying Meng, Deqiang Kong, <strong>Xingxing Zhang</strong>, Yandong Guo, Yao Zhao<br>
+        conference: <a href="https://arxiv.org/abs/1912.06556">[arxiv]</a>
 
       - title: <strong>Hierarchical Prototype Learning for Zero-Shot Recognition</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
