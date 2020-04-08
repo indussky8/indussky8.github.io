@@ -73,6 +73,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2020/02 -- Our paper has been accepted by <strong>CVPR 2020</strong>.
     - content: 2019/12 -- I accepted the invitation to serve as Program Committee (PC) member of <a href="https://ijcai20.org/" target="_blank"><font color='black'><strong>IJCAI 2020</strong></font></a>. 
     - content: 2019/12 -- Our paper has been accepted by <strong>CVM 2020</strong>.
     - content: 2019/12 -- Our paper has been accepted by <strong>ACM TIST</strong>.
@@ -157,10 +158,6 @@ publications:
         authors: Wenbin Li, Lei Wang, <strong>Xingxing Zhang</strong>, Jing Huo, Yang Gao, Jiebo Luo<br>
         conference: <a href="https://arxiv.org/abs/1911.06968">[arxiv]</a>
         
-      - title: <strong>Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning</strong><br>
-        authors: Shuai Zheng, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Zhizhe Liu, Jian Cheng, Yao Zhao<br>
-        conference: <a href="https://arxiv.org/abs/1912.01899">[arxiv]</a>
-        
       - title: <strong>To See in the Dark:&nbsp N2DGAN for Background Modeling in Nighttime Scene</strong><br>
         authors: Zhenfeng Zhu, Yingying Meng, Deqiang Kong, <strong>Xingxing Zhang</strong>, Yandong Guo, Yao Zhao<br>
         conference: <a href="https://arxiv.org/abs/1912.06556">[arxiv]</a>
@@ -194,6 +191,13 @@ publications:
         authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yao Zhao, Dongxia Chang<br>
         conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2017 <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
+            
+            
+      - title: <strong>Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning</strong><br>
+        authors: Shuai Zheng, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Zhizhe Liu, Jian Cheng, Yao Zhao<br>
+        conference: IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2020 <br>
+              <a href="https://arxiv.org/abs/1912.01899">[PDF]</a>
+        
       
       - title: <strong>Convolutional Prototype Learning for Zero-Shot Recognition</strong><br>
         authors: Zhizhe Liu, <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Shuai Zheng, Yao Zhao, Jian Cheng<br>
