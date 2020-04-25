@@ -198,7 +198,7 @@ publications:
               
       - title: <strong>To See in the Dark:&nbsp N2DGAN for Background Modeling in Nighttime Scene</strong><br>
         authors: Zhenfeng Zhu, Yingying Meng, Deqiang Kong, <strong>Xingxing Zhang</strong>, Yandong Guo, Yao Zhao<br>
-         conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2020 <br>
+        conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2020 <br>
             <a href="https://arxiv.org/abs/1912.06556">[PDF]</a>
       
       - title: <strong>Convolutional Prototype Learning for Zero-Shot Recognition</strong><br>
