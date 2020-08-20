@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Xingxing Zhang 张幸幸 <a href="Xingxing_Zhang_s_CV.pdf"></font>[CV]</font></a>
-    tagline: A Phd student
+    tagline: A Postdoc
     avatar: xxz.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    BJTU-email:   zhangxing AT bjtu.edu.cn
+    BJTU-email:   xxzhang2020 AT mail.tsinghua.edu.cn
     Google-email: xxzhang1993 AT gmail.com
 #    phone: 012 345 6789
 #    website: blog.webjeda.com #do not add http://
@@ -44,9 +44,10 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am currently a PHD student (since 2015) at the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>,Bei- jing, China.
-      My advisor is Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>.
-      Before that, I received the bachelor’s degree in 2015 in Communication Engineering from <a href="http://www.htu.cn/english/" target="_blank"><font color='blue' target="_blank">Henan Normal University (HNU)</font></a>, Xinxiang, China.
+     I am a post-doctoral researcher in Department of Computer Science and Technology in the Tsinghua University. I work with Prof. Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
+     Before that, I received the Ph.D degree from the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>
+     in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>),
+     and the B. Sc. degree from from <a href="http://www.htu.cn/english/" target="_blank"><font color='blue' target="_blank">Henan Normal University (HNU)</font></a> in 2015.
        I was a Visiting Student with the Department of Computer Science, 
        <a href="https://www.rochester.edu/" target="_blank"><font color='blue'> University of Rochester (UR)</font></a> from 2018 to 2019, working with Prof. <a href="http://jiliu-ml.org/" target="_blank"><font color='blue'>Ji Liu</font></a>.
        
