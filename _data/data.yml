@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-     I am a post-doctoral researcher in Department of Computer Science and Technology in the Tsinghua University. I work with Prof. Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
+     I am a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a>. I work with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
      Before that, I received the Ph.D degree from the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>
      in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>),
      and the B. Sc. degree from from <a href="http://www.htu.cn/english/" target="_blank"><font color='blue' target="_blank">Henan Normal University (HNU)</font></a> in 2015.
@@ -64,7 +64,7 @@ research-interests:
 education:
     - degree: PHD in Computer Science
       university: Beijing Jiaotong University (BJTU)
-      time: 2015/09 - 2020/07(Expected)
+      time: 2015/09 - 2020/07
 
 
     - degree: BSc in Communication Engineering
