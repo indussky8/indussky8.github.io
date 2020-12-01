@@ -44,13 +44,18 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-     I am a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a>. I work with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
+   #I am a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a>. I work with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
+     # Before that, I received the Ph.D degree from the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>
+     # in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>),
+      #and the B. Sc. degree from from <a href="http://www.htu.cn/english/" target="_blank"><font color='blue' target="_blank">Henan Normal University (HNU)</font></a> in 2015.
+      #  I was a Visiting Student with the Department of Computer Science, 
+        #<a href="https://www.rochester.edu/" target="_blank"><font color='blue'> University of Rochester (UR)</font></a> from 2018 to 2019, working with Prof. <a href="http://jiliu-ml.org/" target="_blank"><font color='blue'>Ji Liu</font></a>.
+       
+       I am a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a>. I work with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
      Before that, I received the Ph.D degree from the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>
-     in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>),
-     and the B. Sc. degree from from <a href="http://www.htu.cn/english/" target="_blank"><font color='blue' target="_blank">Henan Normal University (HNU)</font></a> in 2015.
+     in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>) in 2020.
        I was a Visiting Student with the Department of Computer Science, 
        <a href="https://www.rochester.edu/" target="_blank"><font color='blue'> University of Rochester (UR)</font></a> from 2018 to 2019, working with Prof. <a href="http://jiliu-ml.org/" target="_blank"><font color='blue'>Ji Liu</font></a>.
-       
 #       <b><font color="#FF3030">I am looking for a Postdoc position.
 
 research-interests:
