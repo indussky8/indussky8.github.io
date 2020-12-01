@@ -74,7 +74,7 @@ education:
 news:
   title: News
   newsset:
-    - content: 2020/12 -- A review for recent works in few-shot learning is available <a href="https://github.com/indussky8/awesome-few-shot-learning" target="_blank"><font color='black'><strong>here</strong></font></a>. 
+    - content: 2020/12 -- A review for recent works in <strong>Few-shot Learning</strong> is available <a href="https://github.com/indussky8/awesome-few-shot-learning" target="_blank"><font color='black'><strong>here</strong></font></a>. 
     - content: 2020/04 -- Our paper has been accepted by <strong>Image and Vision Computing</strong>.
     - content: 2020/03 -- Our paper has been accepted by <strong>IEEE Trans. on CSVT</strong>.
     - content: 2020/02 -- Our paper has been accepted by <strong>CVPR 2020</strong>.
