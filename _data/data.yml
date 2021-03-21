@@ -60,12 +60,12 @@ research-interests:
 
 education:
     - degree: PHD in Computer Science
-      university: Beijing Jiaotong University (BJTU)
+      # university: Beijing Jiaotong University (BJTU)
       time: 2015/09 - 2020/07
 
 
     - degree: BSc in Communication Engineering
-      university: Henan Normal University (HNU)
+      # university: Henan Normal University (HNU)
       time: 2011/09 - 2015/07
 
 news:
