@@ -74,8 +74,8 @@ education:
 news:
   title: News
   newsset:
-    - content: 2021/08 -- I obtained the <strong>Youth Foundation of National Natural Science Foundation of China<strong>.
-    - content: 2021/06 -- I obtained the <strong>China Postdoctoral Science Foundation<strong>.
+    - content: 2021/08 -- I obtained the <strong>Youth Foundation of National Natural Science Foundation of China</strong>.
+    - content: 2021/06 -- I obtained the <strong>China Postdoctoral Science Foundation</strong>.
     - content: 2021/03 -- Our paper "Double Low-rank Representation with Projection Distance Penalty for Clustering" has been accepted by <strong>CVPR2021</strong>.
     - content: 2021/02 -- Our paper "Does deep machine vision have just noticeable difference (JND)?" is available <a href="https://arxiv.org/abs/2102.08168" target="_blank"><font color='black'><strong>here</strong></font></a>. 
     - content: 2020/12 -- A review for recent works in <strong>Few-shot Learning</strong> is available <a href="https://github.com/indussky8/awesome-few-shot-learning" target="_blank"><font color='black'><strong>here</strong></font></a>. 
