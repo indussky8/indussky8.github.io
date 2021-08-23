@@ -159,9 +159,23 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: <strong>机器学习中原型学习研究进展</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yawei Zhao, Yao Zhao<br>软件学报, 2021 <br>
+        conference: <a href="http://www.jos.org.cn/1000-9825/6365.htm">[PDF]</a>
+        
+      - title: <strong>Taking Modality-free Human Identification as Zero-shot Learning</strong><br>
+        authors: Zhizhe Liu, <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Shuai Zheng, Yao Zhao, Jian Cheng<br>
+        conference: <a href="https://arxiv.org/pdf/2010.00975.pdf">[arxiv]</a>
+        
       - title: <strong>Double Low-Rank Representation With Projection Distance Penalty for Clustering</strong><br>
         authors: Zhiqiang Fu, Yao Zhao, Dongxia Chang, <strong>Xingxing Zhang</strong>, Yiming Wang<br>
-        conference: <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Double_Low-Rank_Representation_With_Projection_Distance_Penalty_for_Clustering_CVPR_2021_paper.pdf">[arxiv]</a>
+        conference: IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021 <br>
+         <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Double_Low-Rank_Representation_With_Projection_Distance_Penalty_for_Clustering_CVPR_2021_paper.pdf">[PDF]</a>
+        
+      - title: <strong>Auto-weighted low-rank representation for clustering</strong><br>
+        authors: Zhiqiang Fu, Yao Zhao, Dongxia Chang, <strong>Xingxing Zhang</strong>, Yiming Wang<br>
+        conference: <a href="https://arxiv.org/pdf/2104.12308.pdf">[arxiv]</a>
+        
         
       - title: <strong>ATZSL:&nbspDefensive Zero-Shot Recognition in the Presence of Adversaries</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
@@ -169,7 +183,12 @@ publications:
         
       - title: <strong>Defensive Few-shot Adversarial Learning</strong><br>
         authors: Wenbin Li, Lei Wang, <strong>Xingxing Zhang</strong>, Jing Huo, Yang Gao, Jiebo Luo<br>
-        conference: <a href="https://arxiv.org/abs/1911.06968">[arxiv]</a>        
+        conference: <a href="https://arxiv.org/abs/1911.06968">[arxiv]</a>
+        
+      - title: <strong>Does deep machine vision have just noticeable difference (JND)?</strong><br>
+        authors: Jian Jin, <strong>Xingxing Zhang</strong>, Xin Fu, Huan Zhang, Weisi Lin, Jian Lou, Yao Zhao<br>
+        conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2021 <br>
+        <a href="https://arxiv.org/pdf/2102.08168.pdf">[PDF]</a>
      
       - title: <strong>Hierarchical Prototype Learning for Zero-Shot Recognition</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
@@ -201,7 +220,6 @@ publications:
         conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2017 <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
             
-            
       - title: <strong>Distribution-induced Bidirectional Generative Adversarial Network for Graph Representation Learning</strong><br>
         authors: Shuai Zheng, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Zhizhe Liu, Jian Cheng, Yao Zhao<br>
         conference: IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2020 <br>
@@ -214,13 +232,18 @@ publications:
       
       - title: <strong>Convolutional Prototype Learning for Zero-Shot Recognition</strong><br>
         authors: Zhizhe Liu, <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Shuai Zheng, Yao Zhao, Jian Cheng<br>
-        conference: The 8th international conference on Computational Visual Media (<strong>CVM</strong>), 2019 <br>
+        conference: Image and Vision Computing (<strong>IVC</strong>), 2019 <br>
             <a href="https://arxiv.org/abs/1910.09728">[PDF]</a>
             
       - title: <strong>Canonical Correlation Analysis With L2,1-Norm for Multiview Data Representation</strong><br>
         authors: Meixiang Xu, Zhenfeng Zhu, <strong>Xingxing Zhang</strong>, Yao Zhao, Xuelong Li<br>
         conference: IEEE Transactions on Cybernetics (<strong>TCYB</strong>), 2019 <br>
             <a href="https://ieeexplore.ieee.org/abstract/document/8681713">[PDF]</a>
+            
+      - title: <strong>A Theoretical Revisit to Linear Convergence for Saddle Point Problems</strong><br>
+        authors: Wendi Wu, Yawei Zhao, En Zhu, Xinwang Liu, <strong>Xingxing Zhang</strong>, Lailong Luo, Shixiong Wang, Jianping Yin<br>
+        conference: ACM Transactions on Intelligent Systems and Technology (<strong>ACM TIST</strong>), 2020 <br>
+            <a href="https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=RKjiLyAAAAAJ&sortby=pubdate&citation_for_view=RKjiLyAAAAAJ:k_IJM867U9cC">[PDF]</a>
             
       - title: <strong>Understand Dynamic Regret with Switching Cost for Online Decision Making</strong><br>
         authors: Yawei Zhao, Qian Zhao, <strong>Xingxing Zhang</strong>, En Zhu, Xinwang Liu, Jianping Yin<br>
