@@ -159,6 +159,10 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: <strong>Double Low-Rank Representation With Projection Distance Penalty for Clustering</strong><br>
+        authors: Zhiqiang Fu, Yao Zhao, Dongxia Chang, <strong>Xingxing Zhang</strong>, Yiming Wang<br>
+        conference: <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Double_Low-Rank_Representation_With_Projection_Distance_Penalty_for_Clustering_CVPR_2021_paper.pdf">[arxiv]</a>
+        
       - title: <strong>ATZSL:&nbspDefensive Zero-Shot Recognition in the Presence of Adversaries</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Shupeng Gui, Zhenfeng Zhu, Yao Zhao, Ji Liu<br>
         conference: <a href="https://arxiv.org/abs/1910.10994">[arxiv]</a>
