@@ -74,6 +74,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2022/01 -- Our paper "Memory Replay with Data Compression for Continual Learning" is accepted by <strong>ICLR 2022</strong>.
     - content: 2021/12 -- Our paper "Taking Modality-free Human Identification as Zero-shot Learning" is accepted by <strong>IEEE Trans. on CSVT</strong>.
     - content: 2021/11 -- I obtained the <strong>China Postdoctoral Science Foundation</strong> (General Program).
     - content: 2021/09 -- Our paper "Does deep machine vision have just noticeable difference (JND)?" is accepted by <strong>IEEE Trans. on CSVT</strong>.
