@@ -163,13 +163,20 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: <strong>Memory Replay with Data Compression for Continual Learning</strong><br>
+        authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu<br>
+        conference: The Tenth International Conference on Learning Representations (<strong>ICLR</strong>), 2022 <br>
+           <a href="https://openreview.net/forum?id=a7H7OucbWaU">[PDF]</a>
+      
+    
       - title: <strong>机器学习中原型学习研究进展</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Yawei Zhao, Yao Zhao<br>软件学报, 2021 <br>
         conference: <a href="http://www.jos.org.cn/1000-9825/6365.htm">[PDF]</a>
         
       - title: <strong>Taking Modality-free Human Identification as Zero-shot Learning</strong><br>
         authors: Zhizhe Liu, <strong>Xingxing Zhang</strong>, Zhenfeng Zhu, Shuai Zheng, Yao Zhao, Jian Cheng<br>
-        conference: <a href="https://arxiv.org/pdf/2010.00975.pdf">[arxiv]</a>
+        conference: IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>), 2022 <br>
+           <a href="https://arxiv.org/pdf/2010.00975.pdf">[PDF]</a>
         
       - title: <strong>Double Low-Rank Representation With Projection Distance Penalty for Clustering</strong><br>
         authors: Zhiqiang Fu, Yao Zhao, Dongxia Chang, <strong>Xingxing Zhang</strong>, Yiming Wang<br>
