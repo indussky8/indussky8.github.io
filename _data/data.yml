@@ -74,6 +74,8 @@ education:
 news:
   title: News
   newsset:
+    - content: 2022/06 -- Our paper "The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification" and "One-step Low-Rank Representation for Clustering" are accepted by <strong>ACM MM 2022</strong>.
+    - content: 2022/06 -- Our paper "Diagnosing Ensemble Few-Shot Classifiers" is accepted by <strong>IEEE Transactions on Visualization and Computer Graphics</strong>.
     - content: 2022/01 -- Our paper "Memory Replay with Data Compression for Continual Learning" is accepted by <strong>ICLR 2022</strong>.
     - content: 2021/12 -- Our paper "Taking Modality-free Human Identification as Zero-shot Learning" is accepted by <strong>IEEE Trans. on CSVT</strong>.
     - content: 2021/11 -- I obtained the <strong>China Postdoctoral Science Foundation</strong> (General Program).
