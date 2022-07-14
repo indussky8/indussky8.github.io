@@ -74,6 +74,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2022/07 -- Our paper "CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One" is accepted by <strong>ECCV 2022</strong>.
     - content: 2022/06 -- Our paper "The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification" and "One-step Low-Rank Representation for Clustering" are accepted by <strong>ACM MM 2022</strong>.
     - content: 2022/06 -- Our paper "Diagnosing Ensemble Few-Shot Classifiers" is accepted by <strong>IEEE Transactions on Visualization and Computer Graphics</strong>.
     - content: 2022/01 -- Our paper "Memory Replay with Data Compression for Continual Learning" is accepted by <strong>ICLR 2022</strong>.
