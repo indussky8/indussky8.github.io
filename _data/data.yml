@@ -169,7 +169,7 @@ publications:
     title: Publications
     papers:
       - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
-        authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Zhenguo Li, Yi Zhong, Jun Zhu<br>
+        authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Jun Zhu, Yi Zhong<br>
         conference: European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br>
            <a href="https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15">[PDF]</a>
            
@@ -309,7 +309,7 @@ honors-and-awards:
 service:
   title: Service
   summary: |
-    Reviewer: AI, T-CSVT, T-NNLS, NeuCom, MTA, IJCAI-2019, IJCAI-2020.
+    Reviewer: AI, T-PAMI, T-CSVT, T-NNLS, NeuCom, MTA, IJCAI, CVPR.
 
 skills:
     title: Skills
