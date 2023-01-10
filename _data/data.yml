@@ -55,7 +55,7 @@ career-profile:
 research-interests:
   title: Research Interests
   summary: |
-    <b>Machine learning, particularly data selection, continual learning, zero-shot learning, and adversarial learning.</b>
+    <b>Machine learning, particularly data selection, continual learning, zero-shot learning, few-shot learning, and adversarial learning.</b>
     
     <b>Computer vision, particularly image clustering, classification, and retrieval, motion segmentation, activity recognition, and video summarization.</b>
 
