@@ -148,6 +148,10 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: 数据高效的小样本学习方法研究
+        time:  July 2022 - December 2024
+        order: Director
+        
       - title: Research on Subset Selection based on Sparsity
         time:  July 2017 - December 2018
         order: Director
