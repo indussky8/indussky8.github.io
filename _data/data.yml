@@ -73,6 +73,8 @@ education:
 news:
   title: News
   newsset:
+    - content: 2023/01 -- Our paper "ATZSL:&nbspDefensive zero-shot recognition in the presence of adversaries" is accepted by <strong>IEEE Trans. on MM</strong>. 
+    - content: 2022/12 -- It is a great honor to be invited to join CSIG Committe.
     - content: 2022/08 -- Our paper "Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding" is accepted by <strong>IEEE Trans. on MM</strong>.
     - content: 2022/07 -- Our paper "CoSCL:&nbspCooperation of Small Continual Learners is Stronger than a Big One" is accepted by <strong>ECCV 2022</strong>.
     - content: 2022/06 -- Our paper "The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification" and "One-step Low-Rank Representation for Clustering" are accepted by <strong>ACM MM 2022</strong>.
@@ -166,7 +168,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <strong>CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
+      - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
         authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Zhenguo Li, Yi Zhong, Jun Zhu<br>
         conference: European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br>
            <a href="https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15">[PDF]</a>
