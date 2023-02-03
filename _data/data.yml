@@ -73,6 +73,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2023/02 -- Our paper "A Comprehensive Survey of Continual Learning:&nbspTheory, Method and Application" is released in <strong>https://arxiv.org/abs/2302.00487</strong>. 
     - content: 2023/01 -- Our paper "ATZSL:&nbspDefensive zero-shot recognition in the presence of adversaries" is accepted by <strong>IEEE Trans. on MM</strong>. 
     - content: 2022/12 -- It is a great honor to be invited to join CSIG Committe.
     - content: 2022/08 -- Our paper "Auto-Weighted Layer Representation Based View Synthesis Distortion Estimation for 3-D Video Coding" is accepted by <strong>IEEE Trans. on MM</strong>.
@@ -172,6 +173,10 @@ projects:
 publications:
     title: Publications
     papers:
+     - title: <strong>A Comprehensive Survey of Continual Learning:&nbspTheory, Method and Application</strong><br>
+        authors: Liyuan Wang, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
+        conference: <a href="https://arxiv.org/abs/2302.00487">[arxiv]</a>
+           
       - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
         authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Jun Zhu, Yi Zhong<br>
         conference: European Conference on Computer Vision (<strong>ECCV</strong>), 2022 <br>
