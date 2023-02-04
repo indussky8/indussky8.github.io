@@ -173,9 +173,6 @@ projects:
 publications:
     title: Publications
     papers:
-     - title: <strong>A Comprehensive Survey of Continual Learning:&nbspTheory, Method and Application</strong><br>
-        authors: Liyuan Wang, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
-        conference: <a href="https://arxiv.org/abs/2302.00487">[arxiv]</a>
            
       - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
         authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Jun Zhu, Yi Zhong<br>
