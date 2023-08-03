@@ -174,6 +174,10 @@ projects:
 publications:
     title: Publications
     papers:
+
+      - title: <strong>Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence</strong><br>
+        authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong<br>
+        conference: Nature Machine Intelligence (Accepted in Principle) (<strong>NMI</strong>), 2023 <br>
     
       - title: <strong>A Comprehensive Survey of Continual Learning:&nbspTheory Method and Application</strong><br>
         authors: Liyuan Wang, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
