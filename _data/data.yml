@@ -185,7 +185,7 @@ publications:
 
       - title: <strong>The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification</strong><br>
         authors: <strong>Xingxing Zhang</strong>, Zhizhe Liu, Weikai Yang, Liyuan Wang, Jun Zhu<br>
-        conference: ACM Multimedia, (<strong>MM</strong>), 2022 <br>
+        conference: ACM Multimedia (<strong>MM</strong>), 2022 <br>
            <a href="https://dl.acm.org/doi/pdf/10.1145/3503161.3548349">[PDF]</a>
            
       - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
