@@ -174,14 +174,15 @@ projects:
 publications:
     title: Publications
     papers:
-
-     - title: <strong>Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence</strong><br>
-        authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong<br>
-        conference: Nature Machine Intelligence (Accepted in Principle) (<strong>NMI</strong>), 2023 <br>
     
       - title: <strong>A Comprehensive Survey of Continual Learning:&nbspTheory Method and Application</strong><br>
         authors: Liyuan Wang, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
         conference: <a href="https://arxiv.org/abs/2302.00487">[arxiv]</a>
+
+      - title: <strong>The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification</strong><br>
+        authors: <strong>Xingxing Zhang</strong>, Zhizhe Liu, Weikai Yang, Liyuan Wang, Jun Zhu<br>
+        conference: ACM Multimedia (<strong>MM</strong>), 2022 <br>
+           <a href="https://dl.acm.org/doi/pdf/10.1145/3503161.3548349">[PDF]</a>
            
       - title: <strong>CoSCL:&nbspCooperation of Small Continual Learners is Stronger Than a Big One</strong><br>
         authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Jun Zhu, Yi Zhong<br>
