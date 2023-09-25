@@ -73,7 +73,7 @@ education:
 news:
   title: News
   newsset:
-    - content: 2020/02 -- Two paper has been accepted by <strong>NeurIPS 2023</strong>, one of which has been recommended as a <strong>spotlight</strong>。
+    - content: 2020/02 -- Two paper have been accepted by <strong>NeurIPS 2023</strong>, one of which has been recommended as a <strong>spotlight</strong>。
     - content: 2023/08 -- Our wonderful work "Incorporating Neuro-inspired Adaptability for Continual Learning in Artificial Intelligence" is accepted in principle in <strong>Nature Machine Intelligence</strong>. Thank you to my closest collaborator, Dr.<a href="https://lywang3081.github.io/" target="_blank"><font color='blue'>Liyuan Wang</font></a>. We have already achieved a lot, and will continue to accomplish even more amazing work.
     - content: 2023/02 -- Our wonderful work "A Comprehensive Survey of Continual Learning:&nbspTheory Method and Application" is released in <strong>arXiv</strong>. 
     - content: 2023/01 -- Our paper "ATZSL:&nbspDefensive zero-shot recognition in the presence of adversaries" is accepted by <strong>IEEE Trans. on MM</strong>. 
