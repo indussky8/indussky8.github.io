@@ -178,7 +178,7 @@ publications:
     papers:
 
       - title: <strong>Towards a General Framework for Continual Learning with Pre-training</strong><br>
-        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
+        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang&#9993</strong>, Hang Su, Jun Zhu&#9993<br>
         conference: NeurIPS (workshop), 2023<br>
            <a href="https://arxiv.org/pdf/2310.13888.pdf">[PDF]</a>
 
