@@ -73,6 +73,7 @@ education:
 news:
   title: News
   newsset:
+    - content: 2023/10 -- Our paper "Towards a General Framework for Continual Learning with Pre-training" have been accepted by <strong>NeurIPS 2023</strong> workshop.
     - content: 2023/09 -- Two paper have been accepted by <strong>NeurIPS 2023</strong>, one of which has been recommended as a <strong>spotlight</strong>.
     - content: 2023/08 -- Our wonderful work "Incorporating Neuro-inspired Adaptability for Continual Learning in Artificial Intelligence" is accepted in principle in <strong>Nature Machine Intelligence</strong>. Thank you to my closest collaborator, Dr.<a href="https://lywang3081.github.io/" target="_blank"><font color='blue'>Liyuan Wang</font></a>. We have already achieved a lot, and will continue to accomplish even more amazing work.
     - content: 2023/02 -- Our wonderful work "A Comprehensive Survey of Continual Learning:&nbspTheory Method and Application" is released in <strong>arXiv</strong>. 
@@ -176,9 +177,22 @@ publications:
     title: Publications
     papers:
 
+     - title: <strong>Towards a General Framework for Continual Learning with Pre-training</strong><br>
+        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang&#9993</strong>, Hang Su, Jun Zhu&#9993<br>
+        conference: NeurIPS (workshop) (<strong>NMI</strong>), 2023 <br>
+
+     - title: <strong>Hierarchical Decomposition of Prompt-Based Continual Learning:&nbspRethinking Obscured Sub-optimality</strong><br>
+        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang*</strong>, Mingyi Huang, Hang Su, Jun Zhu*<br>
+        conference: NeurIPS (workshop) (<strong>NMI</strong>), 2023 <br>
+
+     - title: <strong>Overcoming Recency Bias of Normalization Statistics in Continual Learning:&nbspBalance and Adaptation</strong><br>
+        authors: Yilin Lyu, Liyuan Wang, <strong>Xingxing Zhang*</strong>, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing*<br>
+        Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang*</strong>, Hang Su, Jun Zhu<br>
+        conference: NeurIPS (workshop) (<strong>NMI</strong>), 2023 <br>
+
       - title: <strong>Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence</strong><br>
         authors: Liyuan Wang*, <strong>Xingxing Zhang*</strong>, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong<br>
-        conference: Nature Machine Intelligence (Accepted in Principle) (<strong>NMI</strong>), 2023 <br>
+        conference: Nature Machine Intelligence (Accepted) (<strong>NMI</strong>), 2023 <br>
     
       - title: <strong>A Comprehensive Survey of Continual Learning:&nbspTheory Method and Application</strong><br>
         authors: Liyuan Wang, <strong>Xingxing Zhang</strong>, Hang Su, Jun Zhu<br>
