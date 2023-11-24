@@ -183,12 +183,12 @@ publications:
            <a href="https://arxiv.org/pdf/2310.13888.pdf">[PDF]</a>
 
       - title: <strong>Hierarchical Decomposition of Prompt-Based Continual Learning:&nbspRethinking Obscured Sub-optimality</strong><br>
-        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang*</strong>, Mingyi Huang, Hang Su, Jun Zhu*<br>
+        authors: Liyuan Wang, Jingyi Xie, <strong>Xingxing Zhang&#9993</strong>, Mingyi Huang, Hang Su, Jun Zhu&#9993<br>
         conference: NeurIPS (spotlight), 2023<br>
            <a href="https://arxiv.org/pdf/2010.00975.pdf">[PDF]</a>
 
       - title: <strong>Overcoming Recency Bias of Normalization Statistics in Continual Learning:&nbspBalance and Adaptation</strong><br>
-        authors: Yilin Lyu, Liyuan Wang, <strong>Xingxing Zhang*</strong>, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing*<br>
+        authors: Yilin Lyu, Liyuan Wang, <strong>Xingxing Zhang&#9993</strong>, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing&#9993<br>
         conference: NeurIPS (poster), 2023<br>
            <a href="https://arxiv.org/pdf/2310.08855.pdf">[PDF]</a>
 
