@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-     I am currently a researcher in Qiyuan Lab, Beijing, China. Before that, I was a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a> from 2020 to 2022. I work closely with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
+     I am currently a researcher in Beijing, China. Before that, I was a post-doctoral researcher in Department of Computer Science and Technology in the <a href="https://www.tsinghua.edu.cn/en/" target="_blank"><font color='blue'>Tsinghua University</font></a> from 2020 to 2022. I work closely with Prof. <a href="http://ml.cs.tsinghua.edu.cn/~jun/index.shtml" target="_blank"><font color='blue'>Jun Zhu</font></a>. 
      I received the Ph.D degree from the <a href="http://mepro.bjtu.edu.cn/" target="_blank"><font color='blue'> Institute of Information Science</font></a> of <a href="http://en.bjtu.edu.cn/" target="_blank"><font color='blue'>Beijing Jiaotong University (BJTU)</font></a>
      in 2020 (advised by Prof. <a href="http://mepro.bjtu.edu.cn/zhaoyao/e_index.htm" target="_blank"><font color='blue'>Yao Zhao</font></a>).
        I was a Visiting Student with the Department of Computer Science, 
@@ -55,9 +55,11 @@ career-profile:
 research-interests:
   title: Research Interests
   summary: |
-    <b>Machine learning, particularly data selection, continual learning, zero-shot learning, few-shot learning, and adversarial learning.</b>
+    <b>Machine learning, particularly continual learning, embodied lifelong learning, data selection, zero-shot learning, and few-shot learning.</b>
     
     <b>Computer vision, particularly image clustering, classification, and retrieval, motion segmentation, activity recognition, and video summarization.</b>
+
+    <b>Embodied Intelligence, with a particular focus on learning-based control of robotic systems, including both legged and arm-based robotics.</b>
 
 
 education:
