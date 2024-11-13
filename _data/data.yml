@@ -55,11 +55,11 @@ career-profile:
 research-interests:
   title: Research Interests
   summary: |
-    <b>Machine learning, particularly continual learning, embodied lifelong learning, data selection, zero-shot learning, and few-shot learning.</b>
+    <b>Machine learning, particularly <font color="purple">continual learning</font>, <font color="purple">embodied lifelong learning</font>, data selection, zero-shot learning, and few-shot learning.</b>
     
     <b>Computer vision, particularly image clustering, classification, and retrieval, motion segmentation, activity recognition, and video summarization.</b>
 
-    <b>Embodied Intelligence, with a particular focus on learning-based control of robotic systems, including both legged and arm-based robotics.</b>
+    <b><font color="purple">Embodied Intelligence</font>, with a particular focus on learning-based control of robotic systems, including both legged and arm-based robotics.</b>
 
 
 education:
